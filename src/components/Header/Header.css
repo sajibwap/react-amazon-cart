@@ -1,0 +1,13 @@
+header {
+    background-color: #112031;
+    color: #D4ECDD;
+    padding: 20px;
+}
+
+header img {
+    max-width: 150px;
+    margin-top: 10px;
+}
+header h2 {
+    margin-top: 0;
+}

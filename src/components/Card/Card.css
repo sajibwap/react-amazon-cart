@@ -1,0 +1,31 @@
+.card {
+    background-color: whitesmoke;
+    border-radius: 3px;
+    /* box-shadow: 0px 0px 2px 2px #345b6333; */
+    display: flex;
+    align-items: center;
+   }
+.card:hover {
+    background-color: rgba(245, 245, 245, 0.767);
+    box-shadow: 0px 0px 3px 4px #345b6333;
+    transition: .3s;
+}
+.card-img {
+    display: flex;
+    flex:1;
+    overflow: hidden;
+}
+.card-img img {
+    width: 100%;
+    transition: .3s;
+}
+.card:hover .card-img img {
+    transform: scale(1.1);
+    transition: .3s;
+}
+
+
+.card-horizontal {
+    display: flex;
+    flex: 1 1 auto;
+}

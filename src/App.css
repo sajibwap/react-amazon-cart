@@ -1,3 +1,14 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #D4ECDD;
+  box-sizing: border-box;
+}
+.container {
+  max-width: 1300px;
+  margin: 0 auto;
+  padding: 0 10px
+}
 .App {
   text-align: center;
 }
@@ -35,4 +46,19 @@
   to {
     transform: rotate(360deg);
   }
+}
+.btn.btn-regular {
+    background: coral;
+    color: #fff;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    padding: 7px 50px;
+    cursor: pointer;
+}
+
+.btn.btn-regular:hover {
+    transition: .3s;
+    background: #f9571b;
+    border: 1px solid;
+    box-shadow: 2px 2px 1px 1px #e7dbdb;
 }

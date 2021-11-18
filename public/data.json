@@ -1,0 +1,137 @@
+[
+    {
+        "key": "01",
+        "name": "Jhankar Mahbub",
+        "img": "https://i.ibb.co/CtTmcsj/IMG-20210926-WA0006.jpg",
+        "post": "CEO & Founder",
+        "gender":"Male",
+        "age":"35",
+        "salary": 50000
+    },
+    {
+        "key": "13",
+        "name": "Karina Islam",
+        "img": "https://web.programming-hero.com/public/1625573160811.png",
+        "post": "Advisor",
+        "gender":"Female",
+        "age":"33",
+        "salary": 19500
+    },
+    {
+        "key": "02",
+        "name": "Rasel Ahmed",
+        "img": "https://i.ibb.co/FXVsVNm/IMG-20210926-WA0004.jpg",
+        "post": "Software Product Manager",
+        "gender":"Male",
+        "age":"28",
+        "salary": 15000
+    },
+    {
+        "key": "03",
+        "name": "Rezaul Karim",
+        "img": "https://i.ibb.co/Np9g1Rt/IMG-20210926-WA0005.jpg",
+        "post": "Product Manager",
+        "gender":"Male",
+        "age":"29",
+        "salary": 14500
+    },
+    {
+        "key": "04",
+        "name": "Mezbaul Abedin",
+        "img": "https://i.ibb.co/0BgT3vm/IMG-20210926-WA0007.jpg",
+        "post": "Web Application Developer",
+        "gender":"Male",
+        "age":"25",
+        "salary": 13500
+    },
+    {
+        "key": "14",
+        "name": "Sadia Sultana",
+        "img": "https://web.programming-hero.com/public/1625573626449.png",
+        "post": "Web Developer",
+        "gender":"Female",
+        "age":"24",
+        "salary": 17000
+    },
+    {
+        "key": "05",
+        "name": "Gias Uddin Hasan",
+        "img": "https://i.ibb.co/4RhF9J8/IMG-20210926-WA0008.jpg",
+        "post": "Supporting Instructor",
+        "gender":"Male",
+        "age":"24",
+        "salary": 13000
+    },
+    {
+        "key": "15",
+        "name": "Afsara Tasnim",
+        "img": "https://web.programming-hero.com/public/1625573860483.png",
+        "post": "SQA Engineer",
+        "gender":"Female",
+        "age":"26",
+        "salary": 12500
+    },
+    {
+        "key": "06",
+        "name": "Anisul Islam",
+        "img": "https://i.ibb.co/mcJ3FHH/IMG-20210926-WA0009.jpg",
+        "post": "Community Manager",
+        "gender":"Male",
+        "age":"26",
+        "salary": 13500
+    },
+    {
+        "key": "07",
+        "name": "Nur E Alam",
+        "img": "https://i.ibb.co/w04MjPn/IMG-20210926-WA0010.jpg",
+        "post": "Supporting Instructor",
+        "gender":"Male",
+        "age":"27",
+        "salary": 14000
+    },
+    {
+        "key": "08",
+        "name": "Muktadir Hassan",
+        "img": "https://i.ibb.co/phZDBYk/IMG-20210926-WA0011.jpg",
+        "post": "Supporting Instructor",
+        "gender":"Male",
+        "age":"25",
+        "salary": 13500
+    },
+    {
+        "key": "09",
+        "name": "Sakib Ahmed",
+        "img": "https://web.programming-hero.com/public/1625574691896.png",
+        "post": "Supporting Instructor",
+        "gender":"Male",
+        "age":"25",
+        "salary": 13000
+    },
+    {
+        "key": "10",
+        "name": "Azizul Islam Milton",
+        "img": "https://i.ibb.co/M2qLS9r/IMG-20210926-WA0013.jpg",
+        "post": "Supporting Instructor",
+        "gender":"Male",
+        "age":"26",
+        "salary": 14000
+    },
+    {
+        "key": "11",
+        "name": "Mujahid Islam",
+        "img": "https://i.ibb.co/s1M6YLj/IMG-20210926-WA0014.jpg",
+        "post": "Content editor",
+        "gender":"Male",
+        "age":"26",
+        "salary": 13000
+    },
+    {
+        "key": "12",
+        "name": "Foysal Bin Touhid",
+        "img": "https://i.ibb.co/0rfGY8N/Foysal-Bin-Touhid.jpg",
+        "post": "Community Manager",
+        "gender":"Male",
+        "age":"26",
+        "salary": 14000
+    }
+]
